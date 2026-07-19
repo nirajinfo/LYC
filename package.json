@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "mkdir -p src && cp main.tsx src/main.tsx 2>/dev/null || echo 'main.tsx handled' && vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
+    "build": "node -e \"const fs = require('fs'); if (!fs.existsSync('src')) fs.mkdirSync('src'); if (fs.existsSync('main.tsx')) fs.copyFileSync('main.tsx', 'src/main.tsx');\" && vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
     "start": "node dist/server.cjs",
     "clean": "rm -rf dist db.json",
     "lint": "tsc --noEmit"
