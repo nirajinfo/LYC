@@ -1,0 +1,622 @@
+{
+  "visitorCount": 14991,
+  "members": [
+    {
+      "id": "LYC-M-1001",
+      "fullName": "Nitesh Kumar Shah",
+      "fatherName": "Ram Dev Shah",
+      "motherName": "Geeta Devi Shah",
+      "dob": "2001-05-15",
+      "gender": "Male",
+      "citizenshipNumber": "14-01-78-10928",
+      "occupation": "Software Engineer",
+      "education": "Bachelors in Computer Engineering",
+      "bloodGroup": "O+",
+      "phone": "9819349007",
+      "email": "nirajkumarshahinfo1@gmail.com",
+      "address": "Jahada-5, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "5",
+      "district": "Morang",
+      "province": "Koshi Province",
+      "photoUrl": "/src/assets/images/president_photo_1784171293524.jpg",
+      "emergencyContactName": "Ram Dev Shah",
+      "emergencyContactPhone": "9842011223",
+      "skills": "Web Development, Strategic Planning, Graphic Design",
+      "interests": "Social Service, Tech Integration, Youth Workshops",
+      "reasonForJoining": "To digitize and lead the club's outreach programs and promote youth-driven community welfare in Morang.",
+      "status": "approved",
+      "joinDate": "2024-01-10",
+      "expiryDate": "2027-01-10"
+    },
+    {
+      "id": "LYC-M-1002",
+      "fullName": "Ramesh Chaudhary",
+      "fatherName": "Hari Prasad Chaudhary",
+      "motherName": "Sita Devi Chaudhary",
+      "dob": "1998-03-22",
+      "gender": "Male",
+      "citizenshipNumber": "14-01-72-00234",
+      "occupation": "Social Worker",
+      "education": "Master in Social Work",
+      "bloodGroup": "A+",
+      "phone": "9801234567",
+      "email": "ramesh@lyc.org.np",
+      "address": "Jahada-5, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "5",
+      "district": "Morang",
+      "province": "Koshi Province",
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=256&auto=format&fit=crop",
+      "emergencyContactName": "Hari Prasad Chaudhary",
+      "emergencyContactPhone": "9842102030",
+      "skills": "Community Organizing, Public Speaking",
+      "interests": "Disaster Relief, Sports Tournaments",
+      "reasonForJoining": "Want to contribute actively to rural healthcare and empower local youth.",
+      "status": "approved",
+      "joinDate": "2024-02-15",
+      "expiryDate": "2027-02-15"
+    },
+    {
+      "id": "LYC-M-1003",
+      "fullName": "Anjali Kumari Mandal",
+      "fatherName": "Gopal Mandal",
+      "motherName": "Phul Kumari Mandal",
+      "dob": "2000-08-11",
+      "gender": "Female",
+      "citizenshipNumber": "14-01-76-99123",
+      "occupation": "Public Health Volunteer",
+      "education": "Bachelor of Public Health",
+      "bloodGroup": "B+",
+      "phone": "9812345678",
+      "email": "anjali@lyc.org.np",
+      "address": "Jahada-5, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "5",
+      "district": "Morang",
+      "province": "Koshi Province",
+      "photoUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=256&auto=format&fit=crop",
+      "emergencyContactName": "Gopal Mandal",
+      "emergencyContactPhone": "9804561230",
+      "skills": "First Aid, Camp Coordination, Counselling",
+      "interests": "Blood Donation Drives, Hygiene Campaigns",
+      "reasonForJoining": "To manage blood donor databases and help organize medical camp initiatives.",
+      "status": "approved",
+      "joinDate": "2024-03-01",
+      "expiryDate": "2027-03-01"
+    }
+  ],
+  "donors": [
+    {
+      "id": "LYC-D-2001",
+      "name": "Nitesh Kumar Shah",
+      "bloodGroup": "O+",
+      "age": 25,
+      "gender": "Male",
+      "weight": 68,
+      "phone": "9819349007",
+      "address": "Jahada-5, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "5",
+      "district": "Morang",
+      "lastDonationDate": "2026-05-10",
+      "available": true,
+      "emergencyContactName": "Ram Dev Shah",
+      "emergencyContactPhone": "9842011223"
+    },
+    {
+      "id": "LYC-D-2002",
+      "name": "Binay Kumar Mandal",
+      "bloodGroup": "A-",
+      "age": 29,
+      "gender": "Male",
+      "weight": 74,
+      "phone": "9807543210",
+      "address": "Jahada-4, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "4",
+      "district": "Morang",
+      "lastDonationDate": "2026-04-12",
+      "available": true,
+      "emergencyContactName": "Shanti Mandal",
+      "emergencyContactPhone": "9812456789"
+    },
+    {
+      "id": "LYC-D-2003",
+      "name": "Rita Kumari Chaudhary",
+      "bloodGroup": "B+",
+      "age": 23,
+      "gender": "Female",
+      "weight": 56,
+      "phone": "9814455667",
+      "address": "Jahada-5, Morang",
+      "municipality": "Jahada Rural Municipality",
+      "ward": "5",
+      "district": "Morang",
+      "lastDonationDate": "2026-06-01",
+      "available": false,
+      "emergencyContactName": "Karan Chaudhary",
+      "emergencyContactPhone": "9842113344"
+    },
+    {
+      "id": "LYC-D-2004",
+      "name": "Suresh Dev Yadav",
+      "bloodGroup": "AB+",
+      "age": 31,
+      "gender": "Male",
+      "weight": 80,
+      "phone": "9805566778",
+      "address": "Biratnagar-12, Morang",
+      "municipality": "Biratnagar Metropolitan City",
+      "ward": "12",
+      "district": "Morang",
+      "lastDonationDate": "2026-02-14",
+      "available": true,
+      "emergencyContactName": "Raj Dev Yadav",
+      "emergencyContactPhone": "9852012345"
+    }
+  ],
+  "bloodRequests": [
+    {
+      "id": "LYC-BR-3001",
+      "patientName": "Shankar Prasad Kurmi",
+      "hospital": "Koshi Hospital, Biratnagar",
+      "requiredBlood": "A-",
+      "urgency": "Immediate",
+      "requiredDate": "2026-07-16",
+      "contactName": "Ramesh Kurmi (Son)",
+      "contactPhone": "9803214567",
+      "status": "pending",
+      "createdAt": "2026-07-15T06:00:00Z"
+    },
+    {
+      "id": "LYC-BR-3002",
+      "patientName": "Maya Devi Rishidev",
+      "hospital": "Nobel Medical College, Biratnagar",
+      "requiredBlood": "O+",
+      "urgency": "Within 24 Hours",
+      "requiredDate": "2026-07-16",
+      "contactName": "Sanjay Rishidev",
+      "contactPhone": "9815522334",
+      "status": "fulfilled",
+      "createdAt": "2026-07-14T09:00:00Z"
+    }
+  ],
+  "programs": [
+    {
+      "id": "LYC-PRG-4001",
+      "titleEn": "Mega Blood Donation & Health Awareness Campaign",
+      "titleNp": "बृहत् रक्तदान तथा स्वास्थ्य सचेतना अभियान",
+      "category": "blood_donation",
+      "descriptionEn": "An intensive single-day camp organized at Jahada Ward 5 Office to respond to blood shortages in Koshi Hospital and other medical centers. Total 67 pints of blood was collected with excellent community participation.",
+      "descriptionNp": "कोशी अस्पताल र अन्य चिकित्सा केन्द्रहरूमा रगत अभाव पूरा गर्न जहदा वडा ५ कार्यालयमा आयोजित एक दिने सघन शिविर। उत्कृष्ट जनसहभागिताका साथ कुल ६७ पिन्ट रगत संकलन गरिएको थियो।",
+      "date": "2026-06-15",
+      "venueEn": "Jahada Ward 5 Office premises, Morang",
+      "venueNp": "जहदा वडा ५ कार्यालय प्राङ्गण, मोरङ",
+      "organizerEn": "Laxminiya Youth Club in coordination with Koshi Hospital Blood Bank",
+      "organizerNp": "लक्ष्मीनिया युवा क्लब, कोशी अस्पताल रक्तसंचार केन्द्रको प्राविधिक सहयोगमा",
+      "participants": 120,
+      "photoUrl": "https://images.unsplash.com/photo-1615461066841-6116ecd36783?q=80&w=800&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1615461066841-6116ecd36783?q=80&w=400&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=400&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "LYC-PRG-4002",
+      "titleEn": "Free Eye and Health Screening Camp",
+      "titleNp": "निःशुल्क आँखा तथा स्वास्थ्य परीक्षण शिविर",
+      "category": "health_camp",
+      "descriptionEn": "Providing free diagnostic consultations, basic medicines, and eye health screenings for elderly and underprivileged citizens of Jahada and nearby areas. 15 free cataract surgeries were referred.",
+      "descriptionNp": "जहदा र वरपरका वृद्धवृद्धा तथा विपन्न नागरिकका लागि निःशुल्क स्वास्थ्य परामर्श, आधारभूत औषधि र आँखा परीक्षण सेवा। १५ जनालाई निःशुल्क मोतिविन्दु शल्यक्रियाको लागि रेफर गरिएको थियो।",
+      "date": "2026-04-20",
+      "venueEn": "Laxminiya Primary School Premises, Jahada",
+      "venueNp": "लक्ष्मीनिया प्राथमिक विद्यालय प्राङ्गण, जहदा",
+      "organizerEn": "Laxminiya Youth Club in technical partnership with Birat Eye Hospital",
+      "organizerNp": "लक्ष्मीनिया युवा क्लब, विराटनगर आँखा अस्पतालको प्राविधिक सहयोगमा",
+      "participants": 340,
+      "photoUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?q=80&w=800&auto=format&fit=crop",
+      "gallery": []
+    }
+  ],
+  "events": [
+    {
+      "id": "LYC-EV-5001",
+      "titleEn": "Annual Sports and Youth Leadership Conclave 2026",
+      "titleNp": "वार्षिक खेलकुद तथा युवा नेतृत्व सम्मेलन २०२६",
+      "descriptionEn": "A weekend event featuring football matches, volleyball games, and leadership panels on \"Digitizing Grassroots Activism\" and \"Public Health Advocacy\". Registration is free and open to all registered local youth.",
+      "descriptionNp": "फुटबल म्याच, भलिबल खेल र \"तृणमूल अभियानको डिजिटलीकरण\" तथा \"सार्वजनिक स्वास्थ्य वकालत\" मा नेतृत्व प्यानलहरू समावेश भएको सप्ताहन्त कार्यक्रम। दर्ता निःशुल्क छ र सबै स्थानीय युवाहरूको लागि खुला छ।",
+      "date": "2026-08-05",
+      "time": "08:00 AM - 05:00 PM",
+      "venueEn": "Jahada Ground, Ward 5, Morang",
+      "venueNp": "जहदा खेल मैदान, वडा ५, मोरङ",
+      "status": "upcoming",
+      "attendanceCount": 250,
+      "photoUrl": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=800&auto=format&fit=crop",
+      "registrations": [
+        {
+          "fullName": "Niraj Shah",
+          "email": "nirajkumarshahinfo1@gmail.com",
+          "phone": "98067767765",
+          "role": "Volunteer",
+          "gender": "Male",
+          "experience": "",
+          "id": "REG-1001",
+          "attended": false
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "LYC-N-6001",
+      "type": "news",
+      "titleEn": "Laxminiya Youth Club Launches Web-Based Blood Management Portal",
+      "titleNp": "लक्ष्मीनिया युवा क्लबद्वारा वेब-आधारित रक्त व्यवस्थापन पोर्टलको शुभारम्भ",
+      "contentEn": "Laxminiya Youth Club has officially launched its smart blood database portal today. This portal will allow registered donors to update their availability, hospital workers to search for donors near Jahada and Morang, and users to submit emergency blood requests. \"We aim to eliminate blood search panic in Koshi Province,\" stated the Executive Committee during the inauguration.",
+      "contentNp": "लक्ष्मीनिया युवा क्लबले आज आधिकारिक रूपमा आफ्नो स्मार्ट रगत डाटाबेस पोर्टल सुरु गरेको छ। यस पोर्टलले दर्ता भएका रक्तदाताहरूलाई आफ्नो उपलब्धता अपडेट गर्न, अस्पतालका कर्मचारीहरूलाई जहदा र मोरङ वरपरका दाताहरू खोज्न र प्रयोगकर्ताहरूलाई आपतकालीन रगतको माग बुझाउन अनुमति दिनेछ। \"हाम्रो उद्देश्य कोशी प्रदेशमा रगत खोजीको चिन्ता र समयलाई कम गर्नु हो,\" उद्घाटनका क्रममा कार्यसमितिले बताउनुभयो।",
+      "date": "2026-07-15",
+      "authorEn": "Anil Kumar Mandal (Secretary)",
+      "authorNp": "अनिल कुमार मण्डल (सचिव)",
+      "photoUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=800&auto=format&fit=crop",
+      "isImportant": true
+    },
+    {
+      "id": "LYC-N-6002",
+      "type": "notice",
+      "titleEn": "Invitation to Submit Online Applications for Active Membership 2026/27",
+      "titleNp": "सक्रिय सदस्यता २०२६/२७ को लागि अनलाइन आवेदन पेश गर्ने सम्बन्धी सूचना",
+      "contentEn": "LYC announces the opening of registrations for active social service membership for the year 2026/2027. All youths above 16 residing in Jahada, Morang, are encouraged to apply through the new digital portal. Upon verification, the committee will release official digital QR IDs.",
+      "contentNp": "लक्ष्मीनिया युवा क्लब वर्ष २०२६/२०२७ को लागि सक्रिय सदस्यता आवेदन खुला गरिएको घोषणा गर्दछ। जहदा, मोरङमा बसोबास गर्ने १६ वर्षभन्दा माथिका इच्छुक सम्पूर्ण युवाहरूलाई नयाँ अनलाइन पोर्टल मार्फत आवेदन दिन अनुरोध गरिन्छ। प्रमाणीकरण पश्चात आधिकारिक क्यूआर डिजिटल परिचयपत्र उपलब्ध गराइनेछ।",
+      "date": "2026-07-10",
+      "authorEn": "Laxminiya Youth Club Office",
+      "authorNp": "लक्ष्मीनिया युवा क्लब कार्यालय",
+      "photoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=800&auto=format&fit=crop",
+      "isImportant": true
+    }
+  ],
+  "projects": [
+    {
+      "id": "LYC-PRJ-7001",
+      "titleEn": "Jahada Medical Support and Oxygen Network",
+      "titleNp": "जहदा स्वास्थ्य सहायता तथा अक्सिजन नेटवर्क",
+      "descriptionEn": "A continuous community health project maintaining oxygen cylinders, emergency first aid equipment, and wheelchair assets to distribute to local vulnerable patients free of charge.",
+      "descriptionNp": "अक्सिजन सिलिन्डर, आपतकालीन प्राथमिक उपचार उपकरण, र ह्विलचेयर जस्ता स्वास्थ्य सामग्रीहरू स्थानीय विपन्न बिरामीहरूलाई निःशुल्क वितरण गर्न सञ्चालित समुदाय स्वास्थ्य परियोजना।",
+      "status": "ongoing",
+      "budgetEn": "NPR 4,50,000",
+      "budgetNp": "रु ४,५०,०००",
+      "progress": 75,
+      "impactEn": "Over 120 patients served with critical medical aid directly at their homes.",
+      "impactNp": "१२० भन्दा बढी बिरामीहरूलाई प्रत्यक्ष घरमै पुगेर महत्वपूर्ण स्वास्थ्य सेवा उपलब्ध गराइएको।",
+      "photoUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "LYC-PRJ-7002",
+      "titleEn": "Morang Youth Greenery Campaign",
+      "titleNp": "मोरङ युवा हरियाली अभियान",
+      "descriptionEn": "A massive afforestation campaign aiming to plant 1000 native tree saplings across public roads, river banks, and school fields in Jahada Rural Municipality.",
+      "descriptionNp": "जहदा गाउँपालिकाका सार्वजनिक सडक, नदी किनार र विद्यालय प्राङ्गणमा १,००० रैथाने प्रजातिका बिरुवा रोप्ने उद्देश्यका साथ सञ्चालित बृहत् वृक्षारोपण अभियान।",
+      "status": "completed",
+      "budgetEn": "NPR 1,20,000",
+      "budgetNp": "रु १,२०,०००",
+      "progress": 100,
+      "impactEn": "1100 trees planted and successfully fenced with youth protection groups.",
+      "impactNp": "११०० बिरुवा रोपेर युवा संरक्षण समूह मार्फत घेराबेरा तथा संरक्षण गरिएको।",
+      "photoUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=800&auto=format&fit=crop"
+    }
+  ],
+  "volunteers": [
+    {
+      "id": "LYC-V-8001",
+      "fullName": "Vikash Kumar Shah",
+      "email": "vikash@gmail.com",
+      "phone": "9815011223",
+      "skills": "Disaster coordination, physical logistics",
+      "availability": "Weekends",
+      "status": "approved",
+      "hoursServed": 36
+    }
+  ],
+  "donations": [
+    {
+      "id": "LYC-DON-9001",
+      "donorName": "Anonymous Supporter",
+      "amount": 15000,
+      "email": "support@ngo.org",
+      "phone": "9842011222",
+      "date": "2026-07-01",
+      "paymentMethod": "Khalti",
+      "purpose": "Blood bank refrigeration battery system support",
+      "receiptNumber": "REC-2026-0091"
+    }
+  ],
+  "logs": [
+    {
+      "id": "LOG-12",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T07:13:31.424Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-11",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T07:00:09.935Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-10",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:42.266Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-9",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:41.992Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-8",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:41.589Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-7",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:41.361Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-6",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:40.865Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-5",
+      "adminEmail": "lycjahada@gmail.com",
+      "action": "Organization Settings Updated",
+      "timestamp": "2026-07-19T06:59:39.503Z",
+      "details": "Updated official organization and club settings"
+    },
+    {
+      "id": "LOG-4",
+      "adminEmail": "system",
+      "action": "Email simulation to lycjahada@gmail.com: Laxminiya Youth Club Password Recovery OTP",
+      "timestamp": "2026-07-19T06:49:29.929Z",
+      "details": "Dear User,\n\nA password recovery request was made for your Laxminiya Youth Club portal account.\n\nYour 6-digit verification code is: 507293\n\nThis recovery code is valid for 15 minutes. If you did not request this, you can safely ignore this email.\n\nWarm regards,\nLaxminiya Youth Club Support Team"
+    },
+    {
+      "id": "LOG-3",
+      "adminEmail": "system",
+      "action": "Event Registered",
+      "timestamp": "2026-07-19T06:48:17.456Z",
+      "details": "User undefined registered for event: Annual Sports and Youth Leadership Conclave 2026"
+    },
+    {
+      "id": "LOG-2",
+      "adminEmail": "admin",
+      "action": "Password Updated",
+      "timestamp": "2026-07-19T06:25:30.843Z",
+      "details": "Updated password for admin lycjahada@gmail.com"
+    },
+    {
+      "id": "LOG-1",
+      "adminEmail": "nirajkumarshahinfo1@gmail.com",
+      "action": "System Init",
+      "timestamp": "2026-07-15T06:00:00.000Z",
+      "details": "Laxminiya Youth Club Web Portal initialized with base seeds."
+    }
+  ],
+  "certificates": [
+    {
+      "id": "LYC-CERT-1001",
+      "recipientName": "Nitesh Kumar Shah",
+      "recipientEmail": "nirajkumarshahinfo1@gmail.com",
+      "recipientId": "LYC-M-1001",
+      "type": "membership",
+      "title": "Active Membership Certificate",
+      "description": "This certifies that Nitesh Kumar Shah is a registered and active member of Laxminiya Youth Club, contributing to community progress and youth empowerment.",
+      "issueDate": "2026-07-15",
+      "status": "approved"
+    },
+    {
+      "id": "LYC-CERT-1002",
+      "recipientName": "Vikash Kumar Shah",
+      "recipientEmail": "vikash@gmail.com",
+      "recipientId": "LYC-V-8001",
+      "type": "volunteer",
+      "title": "Honorary Volunteering Service Certificate",
+      "description": "Awarded to Vikash Kumar Shah in recognition of outstanding community volunteer support and exceptional dedication, serving 36 hours in club logistics.",
+      "issueDate": "2026-07-14",
+      "status": "approved",
+      "hoursCertified": 36
+    }
+  ],
+  "admins": [
+    {
+      "id": "LYC-A-1001",
+      "email": "lycjahada@gmail.com",
+      "fullName": "Nitesh Kumar Shah",
+      "phone": "9819349007",
+      "role": "Super Admin",
+      "password": "02a3dc8d929dc9e2fdcbc8ee03f896f4582d94ea0af8decb5a20c3be4bb99772",
+      "changePasswordRequired": false
+    }
+  ],
+  "passwordResetTokens": [
+    {
+      "email": "lycjahada@gmail.com",
+      "token": "507293",
+      "expiresAt": "2026-07-19T07:04:29.927Z"
+    }
+  ],
+  "notifications": [],
+  "orgSettings": {
+    "name": "Laxminiya Youth Club",
+    "logoUrl": "/src/assets/images/lyc_logo_new_1784447790122.jpg",
+    "faviconUrl": "/src/assets/images/lyc_logo_new_1784447790122.jpg",
+    "altLogoUrl": "",
+    "regNumber": "3447 / 58398",
+    "regDate": "2075-03-20",
+    "panNumber": "608934251",
+    "orgType": "Non-Profit, Social Organization",
+    "email": "lycjahada@gmail.com",
+    "phone": "9819349007",
+    "emergencyPhone": "9819349007",
+    "website": "https://lyc.org.np",
+    "address": "Jahada-5, Morang",
+    "province": "Koshi Province",
+    "district": "Morang",
+    "localGovernment": "Jahada Rural Municipality",
+    "ward": "5",
+    "postalAddress": "Jahada-5, Morang, Koshi Province, Nepal",
+    "googleMapsLocation": "https://maps.google.com/?q=Jahada,Morang",
+    "facebookLink": "https://facebook.com/lyc",
+    "twitterLink": "https://twitter.com/lyc",
+    "youtubeLink": "https://youtube.com/lyc",
+    "instagramLink": "https://instagram.com/lyc",
+    "shortDescription": "A youth-led, non-profit, and non-political volunteer social organization based in Jahada-5, Morang, Nepal.",
+    "fullProfile": "Laxminiya Yuwa Club (LYC) is a registered, non-profit, non-political, and youth-led organization established on 20 Ashadh 2075 B.S. in Jahada Rural Municipality–5, Morang, Koshi Province, Nepal.\n\nBorn from the vision of a group of passionate young people, LYC was established with one shared belief: when youth unite with purpose, they can transform their community.",
+    "vision": "A prosperous, healthy, and scientifically minded Jahada where youth actively lead public welfare, disaster resilience, and community progress.",
+    "mission": "To harness youth potential for social justice, expand active health networks, protect rural environments, and promote public accountability and digital literacy.",
+    "objectives": "1. To empower youth through leadership training, skill development, and active civic participation.\n2. To establish reliable emergency medical and digital blood donor registries in Jahada and surrounding areas.\n3. To advocate for environmental conservation, sustainable sanitation, and afforestation initiatives.\n4. To support educational access, student welfare, and digital literacy in rural schools.",
+    "values": "• Youth Empowerment: Fostering active community leadership.\n• Transparency: Total integrity and open financial accountability.\n• Inclusivity: Equal and dignified support to all without discrimination.\n• Selfless Service: Placing collective welfare above individual interest.",
+    "history": "Laxminiya Yuwa Club was born in Jahada-5 from a burning desire among local youth to make a difference. Recognizing that rural development requires structured, localized action, we registered our club formally on 20 Ashadh 2075 B.S. What started as a localized youth circle has now blossomed into a premier community welfare organ. We continue to build bridges, run campaigns, and create digital solutions to uplift society.",
+    "presidentName": "Nitesh Kumar Shah",
+    "presidentMessage": "Dear Friends and Supporters,\n\nNamaste and Warm Greetings!\n\nLaxminiya Yuwa Club (LYC) was founded on the fundamental belief that the energy and intellect of our youth are the greatest resources for community transformation. From our humble beginnings in Jahada-5, Morang, we have worked relentlessly to bridge the gap in healthcare access, environmental protection, and digital empowerment. Our smart blood donor database is a testament to how technology can save lives at the grassroots level.\n\nWe are deeply grateful to our local government, advisors, dedicated volunteers, and generous supporters who have walked alongside us in this journey.",
+    "presidentPhotoUrl": "/src/assets/images/president_photo_1784171293524.jpg",
+    "officeAddress": "Jahada-5, Morang, Nepal",
+    "officeHours": "Sunday - Friday, 10:00 AM - 5:00 PM",
+    "mapEmbedUrl": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.092392115114!2d87.33266787542271!3d26.425794476940748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ef77c16859c87b%3A0x1b570fcdc596f80f!2zTGF4bWluaXlhIFl1d2EgQ2x1YiDgpLLgpJXgpY3gpLfgpY3gpK7gpL_gpKjgpL_gpK_gpL4g4KSv4KWB4KS14KS-IOCkleCljeCksuCkrA!5e1!3m2!1sen!2snp!4v1784444012204!5m2!1sen!2snp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+    "facebookUrl": "https://www.facebook.com/laxminiyayuwa.club"
+  },
+  "bankingSettings": {
+    "bankName": "Rastriya Banijya Bank",
+    "branchName": "Biratnagar Branch",
+    "accountName": "Laxminiya Youth Club",
+    "accountNumber": "10101002030405",
+    "accountType": "Current",
+    "swiftCode": "RBBANPKA",
+    "bankAddress": "Main Road, Biratnagar, Morang",
+    "paymentQrUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=eSewa-Laxminiya-Youth-Club-Payment-Dummy",
+    "donationQrUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=eSewa-Laxminiya-Youth-Club-Donation-Dummy",
+    "showOnWebsite": true
+  },
+  "committeeMembers": [
+    {
+      "id": "CM-1",
+      "name": "Nitesh Kumar Shah",
+      "profilePhoto": "/src/assets/images/president_photo_1784171293524.jpg",
+      "designationEn": "Executive President",
+      "designationNp": "कार्यकारी अध्यक्ष",
+      "phone": "9819349007",
+      "email": "info@lyc.org",
+      "shortBioEn": "Passionate software developer and social leader leading community digitization.",
+      "shortBioNp": "सफ्टवेयर विकासकर्ता र सामाजिक कार्यकर्ता, जहदा र मोरङ क्षेत्रको डिजिटलाइजेसनको नेतृत्व गर्दै।",
+      "joiningDate": "2075-03-20",
+      "orderPosition": 1,
+      "isActive": true
+    },
+    {
+      "id": "CM-2",
+      "name": "Ramesh Chaudhary",
+      "profilePhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop",
+      "designationEn": "Vice President",
+      "designationNp": "उपाध्यक्ष",
+      "phone": "9801234567",
+      "email": "ramesh@lyc.org.np",
+      "shortBioEn": "Expert in community organizing and disaster relief management.",
+      "shortBioNp": "सामुदायिक परिचालन र विपद् व्यवस्थापन विज्ञ।",
+      "joiningDate": "2075-03-20",
+      "orderPosition": 2,
+      "isActive": true
+    },
+    {
+      "id": "CM-3",
+      "name": "Anil Kumar Mandal",
+      "profilePhoto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43E?q=80&w=200&auto=format&fit=crop",
+      "designationEn": "General Secretary",
+      "designationNp": "महासचिव",
+      "phone": "9812456789",
+      "email": "anil@lyc.org.np",
+      "shortBioEn": "Coordinates external relations, minutes, and administrative compliance.",
+      "shortBioNp": "बाह्य सम्बन्ध, बैठकका निर्णयहरू र प्रशासनिक कार्यको व्यवस्थापन।",
+      "joiningDate": "2075-03-20",
+      "orderPosition": 3,
+      "isActive": true
+    },
+    {
+      "id": "CM-4",
+      "name": "Puja Kumari Shah",
+      "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop",
+      "designationEn": "Treasurer",
+      "designationNp": "कोषाध्यक्ष",
+      "phone": "9842102030",
+      "email": "puja@lyc.org.np",
+      "shortBioEn": "Manages financial planning, audits, and transparent accounting.",
+      "shortBioNp": "वित्तीय योजना, लेखा परीक्षण र पारदर्शी आर्थिक अभिलेख व्यवस्थापन।",
+      "joiningDate": "2075-03-20",
+      "orderPosition": 4,
+      "isActive": true
+    }
+  ],
+  "sliderImages": [
+    {
+      "id": "SL-1",
+      "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1200&auto=format&fit=crop",
+      "titleEn": "Empowering Local Youth",
+      "titleNp": "स्थानीय युवा सशक्तिकरण",
+      "descriptionEn": "Mobilizing communities, protecting health, and securing lives in Jahada.",
+      "descriptionNp": "जहदा क्षेत्रमा समुदाय परिचालन, स्वास्थ्य रक्षा र जीवन सुरक्षा।",
+      "buttonTextEn": "Apply for Membership",
+      "buttonTextNp": "सदस्यता आवेदन",
+      "buttonLink": "membership",
+      "orderPosition": 1,
+      "isActive": true
+    },
+    {
+      "id": "SL-2",
+      "imageUrl": "https://images.unsplash.com/photo-1615461066841-6116ecdccd04?q=80&w=1200&auto=format&fit=crop",
+      "titleEn": "Smart Blood Donor Database",
+      "titleNp": "स्मार्ट रक्तदाता डाटाबेस",
+      "descriptionEn": "Real-time search and dispatch for emergency blood donors.",
+      "descriptionNp": "आकस्मिक रगत आवश्यकताको लागि तत्काल खोजी र रक्तदाता परिचालन।",
+      "buttonTextEn": "Search Blood Donors",
+      "buttonTextNp": "रक्तदाता खोज्नुहोस्",
+      "buttonLink": "bloodBank",
+      "orderPosition": 2,
+      "isActive": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "DOC-1",
+      "title": "Laxminiya Youth Club Constitution / विधान",
+      "category": "legal",
+      "fileUrl": "#",
+      "fileName": "LYC_Constitution_2075.pdf",
+      "uploadDate": "2075-03-20",
+      "isPublic": true,
+      "description": "Official legal registration constitution of Laxminiya Youth Club."
+    },
+    {
+      "id": "DOC-2",
+      "title": "Morang DAO Registration Certificate",
+      "category": "legal",
+      "fileUrl": "#",
+      "fileName": "Morang_DAO_Registration.pdf",
+      "uploadDate": "2075-03-22",
+      "isPublic": false,
+      "description": "District Administration Office Morang Registration Document."
+    }
+  ]
+}

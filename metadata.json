@@ -1,0 +1,6 @@
+{
+  "name": "Laxminiya Youth Club (LYC)",
+  "description": "Official secure web portal and website for Laxminiya Youth Club (LYC), featuring membership verification with digital cards, donation tracking, volunteer registration, and event scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
